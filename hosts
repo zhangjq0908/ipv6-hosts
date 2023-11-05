@@ -37,28 +37,6 @@
 2404:6800:4008:c06::a0 books.google.cn #www.google.cn
 2404:6800:4008:c03::8b books.google.com #www3.l.google.com
 2404:6800:4008:c03::8b books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks0.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks1.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks2.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks3.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks4.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks5.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks6.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks7.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks8.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks9.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks10.books.google.com #books.google.com
-#2404:6800:4005:80b::2003 bks0.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks1.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks2.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks3.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks4.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks5.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks6.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks7.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks8.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks9.books.google.com.hk #books.google.com
-#2404:6800:4005:80b::2003 bks10.books.google.com.hk #books.google.com
 2404:6800:4008:c07::71 buzz.google.com #www3.l.google.com
 
 ## Calendar 日历
@@ -133,27 +111,6 @@
 2404:6800:4008:c05::64 spreadsheets8.google.com #www3.l.google.com
 2404:6800:4008:c07::8a spreadsheets9.google.com #www3.l.google.com
 
-#2001:4860:4001:3::6 r1---sn-nwj7knel.c.docs.google.com #r1.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::7 r2---sn-nwj7knel.c.docs.google.com #r2.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::8 r3---sn-nwj7knel.c.docs.google.com #r3.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::9 r4---sn-nwj7knel.c.docs.google.com #r4.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::a r5---sn-nwj7knel.c.docs.google.com #r5.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::b r6---sn-nwj7knel.c.docs.google.com #r6.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::c r7---sn-nwj7knel.c.docs.google.com #r7.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::d r8---sn-nwj7knel.c.docs.google.com #r8.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::e r9---sn-nwj7knel.c.docs.google.com #r9.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::f r10---sn-nwj7knel.c.docs.google.com #r10.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::10 r11---sn-nwj7knel.c.docs.google.com #r11.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::11 r12---sn-nwj7knel.c.docs.google.com #r12.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::12 r13---sn-nwj7knel.c.docs.google.com #r13.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::13 r14---sn-nwj7knel.c.docs.google.com #r14.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::14 r15---sn-nwj7knel.c.docs.google.com #r15.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::15 r16---sn-nwj7knel.c.docs.google.com #r16.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::16 r17---sn-nwj7knel.c.docs.google.com #r17.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::17 r18---sn-nwj7knel.c.docs.google.com #r18.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::18 r19---sn-nwj7knel.c.docs.google.com #r19.sn-nwj7knel.c.docs.google.com
-#2001:4860:4001:3::19 r20---sn-nwj7knel.c.docs.google.com #r20.sn-nwj7knel.c.docs.google.com
-
 ## Google Earth 地球
 2404:6800:4008:c06::64 earth.google.com #www3.l.google.com
 2404:6800:4008:c03::65 auth.keyhole.com #geoauth.google.com
@@ -173,11 +130,6 @@
 2404:6800:4008:c04::6d pop.gmail.com #gmail-pop.l.google.com
 2404:6800:4008:c06::10 pop.googlemail.com #googlemail-pop.l.google.com
 2404:6800:4008:c02::6c smtp.gmail.com #gmail-smtp-msa.l.google.com
-#2404:6800:4008:c00::62 smtp1.google.com
-#2404:6800:4008:c00::62 smtp2.google.com
-#2404:6800:4008:c00::62 smtp3.google.com
-#2404:6800:4008:c00::62 smtp-out.google.com
-#2404:6800:4008:c00::62 smtp-out3.google.com
 2404:6800:4008:c05::10 smtp.googlemail.com #googlemail-smtp.l.google.com
 2404:6800:4008:c00::6d imap.gmail.com #gmail-imap.l.google.com
 2404:6800:4008:c06::10 imap.googlemail.com #googlemail-imap.l.google.com
@@ -200,7 +152,6 @@
 2404:6800:4005:805::200e khm1.google.com #khm.l.google.com
 2404:6800:4005:807::200e khm2.google.com #khm.l.google.com
 2404:6800:4005:805::200e khm3.google.com #khm.l.google.com
-#2404:6800:4008:c00::64 cbk0.google.com #cbk.l.google.com
 2404:6800:4008:c07::8b cbk1.google.com #cbk.l.google.com
 2404:6800:4008:c06::8a cbk2.google.com #cbk.l.google.com
 2404:6800:4008:c00::66 cbk3.google.com #cbk.l.google.com
@@ -276,8 +227,6 @@
 2404:6800:4008:c05::84 nt1.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:c04::84 nt2.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:c06::84 nt3.ggpht.com #photos-ugc.l.googleusercontent.com
-#2404:6800:4008:c00::62 nt4.ggpht.com
-#2404:6800:4008:c00::62 nt5.ggpht.com
 2404:6800:4008:c03::84 yt3.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:c06::84 yt4.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:c07::85 ap1.googleusercontent.com #photos-ugc-lopri.l.googleusercontent.com
@@ -303,12 +252,7 @@
 2620:0:863:ed1a::1 download.wikimedia.org
 2620:0:863:ed1a::1 download.wikipedia.org
 2620:0:861:1:208:80:154:11 dumps.wikimedia.org #dataset1001.wikimedia.org
-#2620:0:860:2:230:48ff:fe5a:eb1e dataset2.wikimedia.org
-#2620:0:862:1::80:2 blog.wikimedia.org
-#2620:0:862:1::80:2 geoiplookup.wikimedia.org
 2620:0:863:ed1a::1 svn.wikimedia.org
-#2620:0:862:1:209:3dff:fe10:d5d2 mayflower.esams.wikimedia.org
-#2620:0:862:1:6666:6666:6666:6666 ipv6and4.labs.wikimedia.org
 
 2620:0:861:3::2 lists.wikimedia.org
 2620:0:863:ed1a::1 wikimedia.org
@@ -333,43 +277,11 @@
 #2620:0:863:ed1a::1 mediawiki-lb.wikimedia.org
 2620:0:863:ed1a::1 m.wikimedia.org
 2620:0:863:ed1a::3:d en.planet.wikimedia.org #misc-web-lb.eqiad.wikimedia.org
-#2620:0:861:1:208:80:154:41 zirconium.wikimedia.org
-
-#2620:0:860:ed1a:: wikimedia-lb.pmtpa.wikimedia.org
-#2620:0:860:ed1a::1 wikipedia-lb.pmtpa.wikimedia.org
-#2620:0:860:ed1a::2 wiktionary-lb.pmtpa.wikimedia.org
-#2620:0:860:ed1a::3 wikiquote-lb.pmtpa.wikimedia.org
-#2620:0:860:ed1a::4 wikibooks-lb.pmtpa.wikimedia.org
-#2620:0:860:ed1a::5 wikisource-lb.pmtpa.wikimedia.org
-#2620:0:860:ed1a::6 wikinews-lb.pmtpa.wikimedia.org
-#2620:0:860:ed1a::7 wikiversity-lb.pmtpa.wikimedia.org
-#2620:0:860:ed1a::8 mediawiki-lb.pmtpa.wikimedia.org
-#2620:0:861:ed1a:: wikimedia-lb.eqiad.wikimedia.org
-#2620:0:861:ed1a::1 wikipedia-lb.eqiad.wikimedia.org
-#2620:0:861:ed1a::2 wiktionary-lb.eqiad.wikimedia.org
-#2620:0:861:ed1a::3 wikiquote-lb.eqiad.wikimedia.org
-#2620:0:861:ed1a::4 wikibooks-lb.eqiad.wikimedia.org
-#2620:0:861:ed1a::5 wikisource-lb.eqiad.wikimedia.org
-#2620:0:861:ed1a::6 wikinews-lb.eqiad.wikimedia.org
-#2620:0:861:ed1a::7 wikiversity-lb.eqiad.wikimedia.org
-#2620:0:861:ed1a::8 mediawiki-lb.eqiad.wikimedia.org
-#2620:0:862:ed1a:: wikimedia-lb.esams.wikimedia.org
-#2620:0:862:ed1a::1 wikipedia-lb.esams.wikimedia.org
-#2620:0:862:ed1a::2 wiktionary-lb.esams.wikimedia.org
-#2620:0:862:ed1a::3 wikiquote-lb.esams.wikimedia.org
-#2620:0:862:ed1a::4 wikibooks-lb.esams.wikimedia.org
-#2620:0:862:ed1a::5 wikisource-lb.esams.wikimedia.org
-#2620:0:862:ed1a::6 wikinews-lb.esams.wikimedia.org
-#2620:0:862:ed1a::7 wikiversity-lb.esams.wikimedia.org
-#2620:0:862:ed1a::8 mediawiki-lb.esams.wikimedia.org
-
 2620:0:861:ed1a::1 text-lb.eqiad.wikimedia.org
 #2620:0:861:ed1a::1:a bits-lb.eqiad.wikimedia.org
 #2620:0:861:ed1a::1:c mobile-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::2:b upload-lb.eqiad.wikimedia.org
 2620:0:863:ed1a::1 text-lb.ulsfo.wikimedia.org
-#2620:0:863:ed1a::1:a bits-lb.ulsfo.wikimedia.org
-#2620:0:863:ed1a::1:c mobile-lb.ulsfo.wikimedia.org
 2620:0:863:ed1a::2:b upload-lb.ulsfo.wikimedia.org
 
 ## WikiBooks 维基教科书
@@ -1284,12 +1196,6 @@
 2620:100:6017:5::a27d:205 photos-6.dropbox.com #photos-thumb.x.dropbox.com
 2600:9000:2012:2c00:18:9b35:e940:93a1 status.dropbox.com
 2600:9000:2012:2c00:18:9b35:e940:93a1 forums.dropbox.com
-2600:9000:2012:2c00:18:9b35:e940:93a1 marketing.dropbox.com
-
-## DuckDuckGo
-
-## Squarespace
-
 ## TweetDeck
 199.59.148.92 tweetdeck.com
 199.59.148.21 api.tweetdeck.com
