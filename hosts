@@ -1,38 +1,3 @@
-## Blogger 博客服务
-2404:6800:4008:c07::bf www.blogger.com #blogger.l.google.com
-2404:6800:4008:c00::bf blogger.com
-2404:6800:4008:c05::bf blogger.google.com #www.blogger.com
-2404:6800:4008:c00::bf www2.blogger.com #blogger.l.google.com
-2404:6800:4008:c07::bf www.blogblog.com #blogger.l.google.com
-2404:6800:4008:c03::bf www1.blogblog.com #blogger.l.google.com
-2404:6800:4008:c03::bf www2.blogblog.com #blogger.l.google.com
-2404:6800:4008:801::2009 accounts.blogger.com #blogger.l.google.com
-2404:6800:4008:c03::bf beta.blogger.com #blogger.l.google.com
-2404:6800:4008:c05::bf buttons.blogger.com #blogger.l.google.com
-2404:6800:4008:c03::bf buzz.blogger.com #blogger.l.google.com
-2404:6800:4008:c02::bf draft.blogger.com #blogger.l.google.com
-2404:6800:4008:c04::bf status.blogger.com #blogger.l.google.com
-2404:6800:4008:c02::69 help.blogger.com #www2.l.google.com
-2404:6800:4008:c02::68 photos1.blogger.com #photos1.l.google.com
-2404:6800:4008:c05::64 bp0.blogger.com #bloggerphotos.l.google.com
-2404:6800:4008:c00::64 bp1.blogger.com #bloggerphotos.l.google.com
-2404:6800:4008:c03::8b bp2.blogger.com #bloggerphotos.l.google.com
-2404:6800:4008:c03::64 bp3.blogger.com #bloggerphotos.l.google.com
-2404:6800:4008:c05::84 img.blogblog.com #blogspot.l.googleusercontent.com
-2404:6800:4008:c00::bf img1.blogblog.com #blogger.l.google.com
-2404:6800:4008:c02::bf img2.blogblog.com #blogger.l.google.com
-2404:6800:4008:c07::79 www.textcube.com #ghs.google.com
-
-## Blogspot 博客服务
-2404:6800:4008:c06::bf www.blogspot.com #blogger.l.google.com
-2404:6800:4008:c03::bf blogspot.com
-2404:6800:4008:c03::84 blogsofnote.blogspot.com #blogspot.l.googleusercontent.com
-2404:6800:4008:c03::84 knownissues.blogspot.com #blogspot.l.googleusercontent.com
-2404:6800:4008:c07::84 1.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:c07::84 2.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:c03::84 3.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:c03::84 4.bp.blogspot.com #photos-ugc.l.googleusercontent.com
-2404:6800:4008:c07::84 bloggertemplatespreview.blogspot.com #blogspot.l.googleusercontent.com
 ## Books 图书
 2404:6800:4008:c06::a0 books.google.cn #www.google.cn
 2404:6800:4008:c03::8b books.google.com #www3.l.google.com
